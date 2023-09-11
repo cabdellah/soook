@@ -1,0 +1,14 @@
+[
+    {"name":"Algeria","iso_3166_1":"DZ"},
+    {"name":"Brazil","iso_3166_1":"BR"},
+    {"name":"Canada","iso_3166_1":"CA"},
+    {"name":"China","iso_3166_1":"CN"},
+    {"name":"United States","iso_3166_1":"US"},
+    {"name":"Germany","iso_3166_1":"DE"},
+    {"name":"Spain","iso_3166_1":"ES"},
+    {"name":"France","iso_3166_1":"FR"},
+    {"name":"Italy","iso_3166_1":"IT"},
+    {"name":"Greece","iso_3166_1":"GR"},
+    {"name":"Russian Federation","iso_3166_1":"RU"},
+    {"name":"Turkey","iso_3166_1":"TR"}
+]

@@ -1,0 +1,11 @@
+[
+    {"name":"arabic","iso_639":"ar"},
+    {"name":"english","iso_639":"en"},
+    {"name":"spanish","iso_639":"es"},
+    {"name":"portuguese","iso_639":"pt"},
+    {"name":"french","iso_639":"fr"},
+    {"name":"italian","iso_639":"it"},
+    {"name":"turkish","iso_639":"tr"},
+    {"name":"russian","iso_639":"ru"},
+    {"name":"chinese","iso_639":"zh"}
+]
