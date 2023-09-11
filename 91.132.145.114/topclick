@@ -1,19 +1,14 @@
 [
     {
-        "name":"راديــو الشرقــي",
-        "url":"https://radiodzair.net:8070/orientale?shoutcast",
-        "favicon":"https://raw.githubusercontent.com/cabdellah/soook/main/img/p.png",
+        "name":"راديــو الــراي",
+        "url":"https://radiodzair.net:8060/raina?shoutcast",
+        "favicon":"https://raw.githubusercontent.com/cabdellah/soook/main/radio/rain.png",
         "tags":"cabdellah",
         "country":"Algeria",
         "countrycode":"DZ",
-        "iso_3166_2":null,
         "state":"Jijel",
         "language":"arabic",
-        "languagecodes":"ar",
-        "votes":51,
-        "lastchangetime":"2022-11-01 08:42:32",
-        "lastchangetime_iso8601":"2022-11-01T08:42:32Z",
-        "codec":"MP3"
+        "languagecodes":"ar"
     },
     {
         "changeuuid":"95468522-0579-4eb0-be04-d222f5d79331",
