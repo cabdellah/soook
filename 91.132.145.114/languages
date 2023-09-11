@@ -1,11 +1,11 @@
 [
-    {"name":"arabic","iso_639":"ar","stationcount":276},
-    {"name":"english","iso_639":"en","stationcount":9483},
-    {"name":"spanish","iso_639":"es","stationcount":3353},
-    {"name":"portuguese","iso_639":"pt","stationcount":563},
-    {"name":"french","iso_639":"fr","stationcount":2300},
-    {"name":"italian","iso_639":"it","stationcount":1344},
-    {"name":"turkish","iso_639":"tr","stationcount":181},
-    {"name":"russian","iso_639":"ru","stationcount":1097},
-    {"name":"chinese","iso_639":"zh","stationcount":2253}
+    {"name":"arabic","iso_639":"ar"},
+    {"name":"english","iso_639":"en"},
+    {"name":"spanish","iso_639":"es"},
+    {"name":"portuguese","iso_639":"pt"},
+    {"name":"french","iso_639":"fr"},
+    {"name":"italian","iso_639":"it"},
+    {"name":"turkish","iso_639":"tr"},
+    {"name":"russian","iso_639":"ru"},
+    {"name":"chinese","iso_639":"zh"}
 ]

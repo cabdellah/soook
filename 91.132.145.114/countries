@@ -1,14 +1,14 @@
 [
-    {"name":"Algeria","iso_3166_1":"DZ","stationcount":73},
-    {"name":"Brazil","iso_3166_1":"BR","stationcount":929},
-    {"name":"Canada","iso_3166_1":"CA","stationcount":1390},
-    {"name":"China","iso_3166_1":"CN","stationcount":2316},
-    {"name":"The United States Of America","iso_3166_1":"US","stationcount":5962},
-    {"name":"Germany","iso_3166_1":"DE","stationcount":4130},
-    {"name":"Spain","iso_3166_1":"ES","stationcount":895},
-    {"name":"France","iso_3166_1":"FR","stationcount":2115},
-    {"name":"Italy","iso_3166_1":"IT","stationcount":1521},
-    {"name":"Greece","iso_3166_1":"GR","stationcount":1720},
-    {"name":"The Russian Federation","iso_3166_1":"RU","stationcount":1818},
-    {"name":"Turkey","iso_3166_1":"TR","stationcount":416}
+    {"name":"Algeria","iso_3166_1":"DZ"},
+    {"name":"Brazil","iso_3166_1":"BR"},
+    {"name":"Canada","iso_3166_1":"CA"},
+    {"name":"China","iso_3166_1":"CN"},
+    {"name":"United States","iso_3166_1":"US"},
+    {"name":"Germany","iso_3166_1":"DE"},
+    {"name":"Spain","iso_3166_1":"ES"},
+    {"name":"France","iso_3166_1":"FR"},
+    {"name":"Italy","iso_3166_1":"IT"},
+    {"name":"Greece","iso_3166_1":"GR"},
+    {"name":"Russian Federation","iso_3166_1":"RU"},
+    {"name":"Turkey","iso_3166_1":"TR"}
 ]
