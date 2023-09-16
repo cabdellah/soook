@@ -1,0 +1,44 @@
+[
+    {
+        "name":"Radio Quoran القرآن الكريم",
+        "url":"https://webradio.tda.dz/Coran_64K.mp3",
+        "favicon":"https://raw.githubusercontent.com/cabdellah/soook/main/radio/qran.png",
+        "country":"Algeria",
+        "language":"arabic"
+    },
+    {
+        "name":"Radio Quoran القرآن الكريم",
+        "url":"http://s2.voscast.com:12312/;",
+        "favicon":"https://raw.githubusercontent.com/cabdellah/soook/main/radio/cora.png",
+        "country":"Algeria",
+        "language":"arabic"
+    },
+    {
+        "name":"Radio Quoran القرآن الكريم",
+        "url":"http://live.mp3quran.net:9956/",
+        "favicon":"https://raw.githubusercontent.com/cabdellah/soook/main/radio/corr.png",
+        "country":"Algeria",
+        "language":"arabic"
+    },
+    {
+        "name":"Radio Quoran القرآن الكريم",
+        "url":"https://admdn7ta.cdn.mangomolo.com/quranrdo/quranrdo.stream_aac/chunklist.m3u8",
+        "favicon":"https://raw.githubusercontent.com/cabdellah/soook/main/radio/coor.png",
+        "country":"Algeria",
+        "language":"arabic"
+    },
+    {
+        "name":"Radio Quoran القرآن الكريم",
+        "url":"https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
+        "favicon":"https://raw.githubusercontent.com/cabdellah/soook/main/radio/qorr.png",
+        "country":"Algeria",
+        "language":"arabic"
+    },
+    {
+        "name":"Radio Quoran القرآن الكريم",
+        "url":"http://listen.radio-coran.net:8000/live.mp3",
+        "favicon":"https://raw.githubusercontent.com/cabdellah/soook/main/radio/qooo.png",
+        "country":"Algeria",
+        "language":"arabic"
+    }
+]
